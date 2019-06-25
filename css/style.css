@@ -13,11 +13,12 @@ background: url(../img/sign.jpg);
 }
 
 .head-one{
-    background-color: #1da90c;
+     background-color: #1da90c;
     color: #fff;
     border-radius: 5px;
     margin: 18px 124px;
     text-align: center;
+}
 
 
 }
