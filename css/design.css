@@ -1,0 +1,61 @@
+*{
+
+	margin: 0px;
+}
+
+
+body{
+background: url(../img/backone.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+display: block;
+}
+
+.head-one{
+    background-color: #85C1E9;
+    color: #fff;
+    border-radius: 5px;
+    margin: 14px 124px;
+    text-align: center;
+
+
+}
+.container{
+              background-color: #85c1e996;
+    width: 566px;
+    margin: 77px auto;
+    border-radius: 6px;
+    PADDING: 31PX;
+}
+
+
+.login{
+    width: 450px;
+    margin: 0px auto;
+}
+
+
+
+.from-control{
+    width: 455px;
+    padding: 17px;
+    margin: 15px -15PX auto;
+    border-radius: 10px;
+}
+
+.btn{
+        background-color: #2874A6;
+    padding: 6px;
+    margin: 9px 187px;
+    display: block;
+    text-transform: uppercase;
+    color: #FFF;
+    text-align: center;
+   
+
+}
+.btn:hover{
+	box-shadow:7px 5px 11px #D7DBDD
+}
